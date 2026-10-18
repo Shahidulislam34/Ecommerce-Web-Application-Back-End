@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\models\\customersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\customersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Migrations\\20261018160145_patch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceProject\\Migrations\\20261018160145_patch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\icustomersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\icustomersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\iaccountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\iaccountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\helpers\\applicationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\helpers\\applicationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\dto\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\dto\\customersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\ecommerceproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\ecommerceproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\testsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\testsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\repository\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\repository\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\models\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\models\\countriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\countriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\models\\booksmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\models\\booksmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\frombodycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\frombodycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\fromheadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\fromheadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\fromformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\fromformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\fromroutecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\fromroutecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\fromquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\fromquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\defaultwaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\defaultwaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|p:\\c-sharp\\asp .net core web api\\ecommerceproject\\ecommerceproject\\ecommerceproject\\migrations\\20261012182004_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884E8F0A-D8C3-896D-3763-31D5F0DB4EBB}|EcommerceProject\\EcommerceProject.csproj|solutionrelative:ecommerceproject\\migrations\\20261012182004_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20261018160145_patch3.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Migrations\\20261018160145_patch3.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Migrations\\20261018160145_patch3.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Migrations\\20261018160145_patch3.cs",
+              "RelativeToolTip": "EcommerceProject\\Migrations\\20261018160145_patch3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T16:01:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\CustomersRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\CustomersRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\CustomersRepository.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAiwIsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:08:43.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\CustomersController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwFQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T17:40:24.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersModel.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\CustomersModel.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\CustomersModel.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\CustomersModel.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\CustomersModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T17:04:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomersRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\ICustomersRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\ICustomersRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\ICustomersRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\ICustomersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:48:57.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccountsRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\IAccountsRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\IAccountsRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\IAccountsRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\IAccountsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:17:14.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomersDto.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\DTO\\CustomersDto.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\DTO\\CustomersDto.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\DTO\\CustomersDto.cs",
+              "RelativeToolTip": "EcommerceProject\\DTO\\CustomersDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T18:03:27.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Program.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Program.cs",
+              "RelativeToolTip": "EcommerceProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T06:23:28.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationHelpers.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Helpers\\ApplicationHelpers.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Helpers\\ApplicationHelpers.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Helpers\\ApplicationHelpers.cs",
+              "RelativeToolTip": "EcommerceProject\\Helpers\\ApplicationHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T05:27:50.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\CountriesController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T06:49:51.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceProject\\appsettings.json",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\appsettings.json",
+              "RelativeToolTip": "EcommerceProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-27T16:56:35.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\BooksRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\BooksRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\BooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T16:37:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EcommerceProject\\Properties\\launchSettings.json",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EcommerceProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-27T16:52:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountsRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\AccountsRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\AccountsRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\AccountsRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\AccountsRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:12:33.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\AccountsController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:24:08.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\SignUpModel.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\SignUpModel.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\SignUpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:44:30.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\ApplicationUser.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:14:54.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20261012182004_addidentity.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Migrations\\20261012182004_addidentity.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Migrations\\20261012182004_addidentity.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Migrations\\20261012182004_addidentity.cs",
+              "RelativeToolTip": "EcommerceProject\\Migrations\\20261012182004_addidentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:20:05.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Data\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Data\\EcommerceDbContext.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Data\\EcommerceDbContext.cs",
+              "RelativeToolTip": "EcommerceProject\\Data\\EcommerceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T17:10:34.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EcommerceProject.csproj",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\EcommerceProject.csproj",
+              "RelativeDocumentMoniker": "EcommerceProject\\EcommerceProject.csproj",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\EcommerceProject.csproj",
+              "RelativeToolTip": "EcommerceProject\\EcommerceProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T16:54:41.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\IBooksRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\IBooksRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T16:57:28.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\BooksController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T17:01:13.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T17:44:24.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TestsRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\TestsRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\TestsRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\TestsRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\TestsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T05:52:32.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\ProductsRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\ProductsRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\ProductsRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T17:38:06.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Repository\\IProductsRepository.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Repository\\IProductsRepository.cs",
+              "RelativeToolTip": "EcommerceProject\\Repository\\IProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T18:29:36.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductsModel.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\ProductsModel.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\ProductsModel.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\ProductsModel.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\ProductsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T17:36:03.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CountriesModel.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\CountriesModel.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\CountriesModel.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\CountriesModel.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\CountriesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:18:24.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BooksModel.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\BooksModel.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Models\\BooksModel.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Models\\BooksModel.cs",
+              "RelativeToolTip": "EcommerceProject\\Models\\BooksModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:48:24.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FromBodyController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromBodyController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\FromBodyController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromBodyController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\FromBodyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:39:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FromRouteController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromRouteController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\FromRouteController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromRouteController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\FromRouteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:52:07.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FromFormController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromFormController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\FromFormController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromFormController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\FromFormController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:20:36.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FromHeaderController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromHeaderController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\FromHeaderController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromHeaderController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\FromHeaderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:35:06.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FromQueryController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromQueryController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\FromQueryController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\FromQueryController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\FromQueryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T12:41:32.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DefaultWayController.cs",
+              "DocumentMoniker": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\DefaultWayController.cs",
+              "RelativeDocumentMoniker": "EcommerceProject\\Controllers\\DefaultWayController.cs",
+              "ToolTip": "P:\\C-Sharp\\ASP .NET Core Web API\\EcommerceProject\\EcommerceProject\\EcommerceProject\\Controllers\\DefaultWayController.cs",
+              "RelativeToolTip": "EcommerceProject\\Controllers\\DefaultWayController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:29:53.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
